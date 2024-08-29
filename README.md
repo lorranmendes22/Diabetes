@@ -158,9 +158,5 @@ Este projeto visa realizar a análise e modelagem de dados sobre diabetes utiliz
 - Python 3.6 ou superior
 - Bibliotecas: pandas, scikit-learn, matplotlib, seaborn
 
-## Execução
 
-1. Clone este repositório.
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o script de análise e modelagem.
 
